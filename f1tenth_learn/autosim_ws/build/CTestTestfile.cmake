@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/ytx/autosim_ws/src
+# Build directory: /home/ytx/autosim_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("hector_slam/hector_geotiff_launch")
+subdirs("hector_slam/hector_slam")
+subdirs("hector_slam/hector_slam_launch")
+subdirs("hector_slam/hector_map_tools")
+subdirs("hector_slam/hector_nav_msgs")
+subdirs("hector_slam/hector_geotiff")
+subdirs("hector_slam/hector_geotiff_plugins")
+subdirs("hector_slam/hector_marker_drawing")
+subdirs("Jackal_VO")
+subdirs("scan_matching")
+subdirs("hector_slam/hector_compressed_map_transport")
+subdirs("particle_filter")
+subdirs("Husky_VIO")
+subdirs("simulator")
+subdirs("F1Tenth_VO")
+subdirs("hector_slam/hector_imu_attitude_to_tf")
+subdirs("hector_slam/hector_imu_tools")
+subdirs("hector_slam/hector_map_server")
+subdirs("hector_slam/hector_trajectory_server")
+subdirs("f1tenth_simulator")
+subdirs("hector_slam/hector_mapping")
+subdirs("VIO_Utils")
+subdirs("ytx_lab1")
+subdirs("ytx_lab2")
+subdirs("ytx_lab3")
+subdirs("ytx_lab4")
+subdirs("ytx_lab5")
+subdirs("ytx_lab6")

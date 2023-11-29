@@ -1,0 +1,8 @@
+prefix=/home/ytx/autosim_ws/install
+
+Name: ytx_lab2
+Description: Description of ytx_lab2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

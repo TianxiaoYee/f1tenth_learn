@@ -1,0 +1,8 @@
+prefix=/home/ytx/autosim_ws/install
+
+Name: ytx_lab1
+Description: Description of ytx_lab1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

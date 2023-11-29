@@ -1,0 +1,8 @@
+prefix=/home/ytx/autosim_ws/install
+
+Name: jackal_vo
+Description: Description of jackal_vo
+Version: 0.8.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

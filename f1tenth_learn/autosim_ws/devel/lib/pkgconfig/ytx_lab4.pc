@@ -1,0 +1,8 @@
+prefix=/home/ytx/autosim_ws/devel
+
+Name: ytx_lab4
+Description: Description of ytx_lab4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
